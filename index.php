@@ -2,5 +2,7 @@
 phpinfo();
 
 #add by lzq
-echo "hello";
+echo "hellodf";
+
+echo "df";
 ?>
